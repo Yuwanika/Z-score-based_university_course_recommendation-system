@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==6.0.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+xgboost==3.0.3
+catboost==1.2.8
+optuna==4.4.0
+imblearn==0.0
+pyngrok==7.3.0
+graphviz==0.21
+colorlog==6.9.0

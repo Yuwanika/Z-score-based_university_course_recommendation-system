@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+.venv.bak/
+env.bak/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask environment files
+instance/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+.env.*
+*.pkl
